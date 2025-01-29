@@ -1,7 +1,8 @@
 <h1>Amigo secreto</h1>
 
 <h2>Sobre:</h2>
-<p>Atividade realizada para ocurso de programação.</p>
+<p>Atividade realizada para curso de programação, onde sera sorteado um amigo secreto. O usuário irá digitar o nome dos participantes e fazer o sorteio.
+ Durante o desenvolvimento do projeto, me deparei com diversos erros, até conseguir chegar ao local desejado, projeto simples, mas para iniciantes se torna complexo.</p>
 
 ## Tecnologias:
 <div>
